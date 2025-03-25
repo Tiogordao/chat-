@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Chat em Tempo Real</title>
+<title>Chat</title>
 <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
 <style>
     body { font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; }
